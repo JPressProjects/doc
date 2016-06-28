@@ -65,7 +65,7 @@ JPress，一个wordpress的java代替版本，使用JFinal开发。支持类似w
 ## 后台管理
 
 ### 进入后台
-当JPress安装完毕后，访问http://yoursite.com/admin（本地：`http://127.0.0.1/admin`），输入安装配置的账号密码，即可进入管理后台。
+当JPress安装完毕后，访问 `http://yoursite.com/admin`（本地：`http://127.0.0.1/admin`），输入安装配置的账号密码，即可进入管理后台。
 
 ### 内容发布
 ### 网站配置
